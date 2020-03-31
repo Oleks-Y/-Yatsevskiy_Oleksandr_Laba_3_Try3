@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\ProgLab_3_3\ProgLab_3_3\bin\Debug\ProgLab_3_3.exe.config
+C:\Users\User\source\repos\ProgLab_3_3\ProgLab_3_3\bin\Debug\ProgLab_3_3.exe
+C:\Users\User\source\repos\ProgLab_3_3\ProgLab_3_3\bin\Debug\ProgLab_3_3.pdb
+C:\Users\User\source\repos\ProgLab_3_3\ProgLab_3_3\obj\Debug\ProgLab_3_3.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ProgLab_3_3\ProgLab_3_3\obj\Debug\ProgLab_3_3.exe
+C:\Users\User\source\repos\ProgLab_3_3\ProgLab_3_3\obj\Debug\ProgLab_3_3.pdb

@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\ProgLab_3_2\ProgLab_3_2\bin\Debug\ProgLab_3_2.exe.config
+C:\Users\User\source\repos\ProgLab_3_2\ProgLab_3_2\bin\Debug\ProgLab_3_2.exe
+C:\Users\User\source\repos\ProgLab_3_2\ProgLab_3_2\bin\Debug\ProgLab_3_2.pdb
+C:\Users\User\source\repos\ProgLab_3_2\ProgLab_3_2\obj\Debug\ProgLab_3_2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ProgLab_3_2\ProgLab_3_2\obj\Debug\ProgLab_3_2.exe
+C:\Users\User\source\repos\ProgLab_3_2\ProgLab_3_2\obj\Debug\ProgLab_3_2.pdb
+C:\Users\User\source\repos\ProgLab_3_2\ProgLab_3_2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\ProgLab_3_2\ProgLab_3_2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\ProgLab_3_2\ProgLab_3_2\obj\Debug\ProgLab_3_2.csproj.CopyComplete
